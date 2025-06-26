@@ -27,5 +27,6 @@ Console.WriteLine(phone);
 string sex = "Man";
 Console.WriteLine(sex);
 
-string status = "single";
+string status = "Maried";
 Console.WriteLine(status);
+
